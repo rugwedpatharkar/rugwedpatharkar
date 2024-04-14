@@ -10,26 +10,32 @@
 
 <div align="center">
 
- 🔭 I’m currently working on **a Portfolio**
+🔭 I’m currently working on **a Portfolio**
 
- 🌱 I’m currently learning **Docker, Kubernetes, React**
+🌱 I’m currently learning **Docker, Kubernetes, React**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
 
 <div align="center">
+<a href="">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank" />
+  </a>
+<a href="https://github.com/rugwedpatharkar">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+  </a>
   <a href="mailto:rugwedsp2000@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/rugwed-patharkar" target="_blank">
-    <img src="" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://linkedin.com/in/rugwed-patharkar" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
+  <a href="https://www.instagram.com/rugwedpatharkar/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
   </a>
-  <a href="https://linkedin.com/in/rugwed-patharkar" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+<a href="https://www.facebook.com/rugwed0/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"/>
   </a>
 </div>
 
@@ -38,8 +44,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=java,py,git,kubernetes,docker,github,bootstrap,html,css,js,replit,spring" />
+    <img src="https://skillicons.dev/icons?i=react,django,eclipse,hibernate,heroku,idea,jquery,linux,mongodb,mysql,npm,postman,pycharm,sublime,ubuntu,vim,vite,windows" /><br>
 </div>
 
 <br/>
