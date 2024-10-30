@@ -47,7 +47,9 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,py,git,kubernetes,docker,github,bootstrap,html,css,js,replit,spring,vim,vite,windows" />
-    <img src="https://skillicons.dev/icons?i=react,django,eclipse,hibernate,heroku,idea,jquery,linux,mongodb,mysql,npm,postman,pycharm,sublime,ubuntu" /><br>
+    <img src="https://skillicons.dev/icons?i=react,django,eclipse,hibernate,heroku,idea,jquery,linux,mongodb,mysql,npm,postman,pycharm,sublime,ubuntu" />
+        <img src="https://skillicons.dev/icons?i=aws,fastapi,apple,firebase,rabbitmq,gcp,stackoverflow"/><br>
+
 </div>
 
 <br/>
