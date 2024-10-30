@@ -9,7 +9,11 @@
 <br/>
 
 <div align="center">
-
+🔭 I’m currently working at **Upswing Cognitive Hospitality Solutions** as a **Software Engineer**.
+🌱 I’m currently working with **Python, FastAPI, Docker, Kubernetes, Google Cloud, and AWS**
+📘 I’m learning **gRPC** to enhance my microservices knowledge.
+⚡ Fun fact **The first computer “bug” was an actual moth stuck in a Harvard Mark II computer in 1947**
+    
 🔭 I’m currently working on **a Portfolio**
 
 🌱 I’m currently learning **Docker, Kubernetes, React**
