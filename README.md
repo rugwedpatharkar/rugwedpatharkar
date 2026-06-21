@@ -176,9 +176,9 @@ An end-to-end Retrieval-Augmented Generation pipeline using Playwright for scrap
   <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rugwedpatharkar&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.demolab.com?user=rugwedpatharkar&theme=transparent&hide_border=true&ring=58A6FF&fire=F55036&currStreakLabel=58A6FF&dates=C9D1D9&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.demolab.com?user=rugwedpatharkar&theme=transparent&hide_border=true&ring=0969DA&fire=F55036&currStreakLabel=0969DA&dates=24292F&sideLabels=24292F&currStreakNum=24292F&sideNums=24292F" />
-  <img height="170" alt="GitHub streak" src="https://github-readme-streak-stats.demolab.com?user=rugwedpatharkar&theme=transparent&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rugwedpatharkar&theme=transparent&hide_border=true&ring=58A6FF&fire=F55036&currStreakLabel=58A6FF&dates=C9D1D9&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=rugwedpatharkar&theme=transparent&hide_border=true&ring=0969DA&fire=F55036&currStreakLabel=0969DA&dates=24292F&sideLabels=24292F&currStreakNum=24292F&sideNums=24292F" />
+  <img height="170" alt="GitHub streak" src="https://streak-stats.demolab.com?user=rugwedpatharkar&theme=transparent&hide_border=true" />
 </picture>
 
 <picture>
@@ -189,7 +189,11 @@ An end-to-end Retrieval-Augmented Generation pipeline using Playwright for scrap
 
 <br/><br/>
 
-![GitHub trophies](https://github-profile-trophy.vercel.app/?username=rugwedpatharkar&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rugwedpatharkar&theme=react-dark&hide_border=true&area=true&custom_title=Contribution+Activity&bg_color=00000000&color=58A6FF&line=58A6FF&point=F55036" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rugwedpatharkar&theme=github-light&hide_border=true&area=true&custom_title=Contribution+Activity&bg_color=FFFFFF00&color=0969DA&line=0969DA&point=F55036" />
+  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rugwedpatharkar&hide_border=true&area=true" />
+</picture>
 
 <br/>
 
