@@ -14,6 +14,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-rugwedpatharkar-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rugwedpatharkar)
 &nbsp;
 ![Profile views](https://komarev.com/ghpvc/?username=rugwedpatharkar&style=flat-square&color=58A6FF&label=Profile+views)
+![Last updated](https://img.shields.io/github/last-commit/rugwedpatharkar/rugwedpatharkar?style=flat-square&label=Last+update&color=475569)
+[![Skyline](https://img.shields.io/badge/GitHub_Skyline-2025-58A6FF?style=flat-square&logo=githubsponsors&logoColor=white)](https://skyline.github.com/rugwedpatharkar/2025)
 
 </div>
 
@@ -203,10 +205,23 @@ An end-to-end Retrieval-Augmented Generation pipeline using Playwright for scrap
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/rugwedpatharkar/rugwedpatharkar/output/github-contribution-grid-snake.svg" />
 </picture>
 
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rugwedpatharkar/rugwedpatharkar/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rugwedpatharkar/rugwedpatharkar/main/profile-3d-contrib/profile-3d.svg" />
+  <img alt="3D contribution profile" src="https://raw.githubusercontent.com/rugwedpatharkar/rugwedpatharkar/main/profile-3d-contrib/profile-3d.svg" />
+</picture>
+
 </div>
 
 ---
 
 <div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<br/>
+
 <sub>If you've scrolled this far, you should probably <a href="mailto:rugwedspatharkar@gmail.com">say hi</a>.</sub>
 </div>
